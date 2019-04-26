@@ -1,4 +1,4 @@
-## 功能
+## 集成功能
 
 * [x] mybatis
 * [x] mybaits-generator
